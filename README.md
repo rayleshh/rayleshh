@@ -43,7 +43,7 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <code><img height="20" src="https://cdn.svgporn.com/logos/new-relic.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/datadog.svg"></code>
 
-**Clouds:**
+<h3 align="left">Clouds:</h3>
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
