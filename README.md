@@ -24,8 +24,6 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 - 💼 any freelance work? do reach, [email](mailto:melqui@b2tech.com.br) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></code>
