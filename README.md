@@ -1,9 +1,72 @@
-<h1> Olá 👋 Bem vindo(a) ao meu perfil ! </h1>
+### hey there
 
-Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco de back-end :)
+<a href="https://www.instagram.com/rayleshh/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/rayleshh">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/m-bernardes-ti/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-[![Linkedin: Melquisedeque Bernardes Pereira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bernardes-ti/)](https://www.linkedin.com/in/m-bernardes-ti/)
+![](https://visitor-badge.glitch.me/badge?page_id=rayleshh.rayleshh)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rayleshh&show_icons=true&theme=dracula)
+<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayleshh&layout=compact) 
+Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self-taught devops.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:melqui@b2tech.com.br) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**
+
+<h3 align="left">Languages and Tools:</h3>
+
+<code><img height="20" src="https://cdn.svgporn.com/logos/kubernetes.svg"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/1bc35196813b8719aef0d55b3d78b4b2de664c70461bd0a83d072823309bb642/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6172676f2d69636f6e2e737667"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/1bde4f75fd9ed31f80fe34140201a2b642ccdf2ce61c3164f85cb50f87fef94f/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68656c6d2e737667"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/terraform-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/adonisjs-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/gopher.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/new-relic.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/datadog.svg"></code>
+
+**Clouds:**
+
+<code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/digital-ocean.svg"></code>
+<code><img height="20" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c1/6c898e21d24af7a466c0d82159a62d/cloud-essentials-logo3.png?auto=format%2Ccompress&dpr=1"></code>
+
+📊 **this week i spent my time on:**
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   17 hrs 35 mins  ████████████████████▒░░░░   81.86 %
+JavaScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+HCL          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Python         33 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GO        9 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+```
+
+<!--END_SECTION:waka-->
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayleshh&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
