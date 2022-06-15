@@ -56,11 +56,7 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 35 mins  ████████████████████▒░░░░   81.86 %
-JavaScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-HCL          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Python         33 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-GO        9 mins             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
