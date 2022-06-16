@@ -64,10 +64,10 @@ YAML       10 mins         ██████████▓░░░░░░�
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 4 tasks so far           
-⏳  Longest streak is 0 days
+🏆  350 Karma Points           
+🌸  Completed 4 tasks today           
+✅  Completed 6 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 📈 my github stats
