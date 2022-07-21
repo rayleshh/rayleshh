@@ -67,10 +67,10 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  4,071 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 160 tasks so far           
-⏳  Longest streak is 17 days
+🏆  4,095 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 165 tasks so far           
+⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
 📈 my github stats
