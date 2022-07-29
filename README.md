@@ -68,10 +68,10 @@ Properties   27 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  4,673 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 195 tasks so far           
-⏳  Longest streak is 23 days
+🏆  4,697 Karma Points           
+🌸  Completed 7 tasks today           
+✅  Completed 202 tasks so far           
+⏳  Longest streak is 24 days
 <!-- TODO-IST:END -->
 
 📈 my github stats
