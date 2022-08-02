@@ -68,9 +68,9 @@ Docker       18 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  4,921 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 207 tasks so far           
+🏆  4,945 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 212 tasks so far           
 ⏳  Longest streak is 24 days
 <!-- TODO-IST:END -->
 
