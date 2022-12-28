@@ -56,8 +56,8 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <!--START_SECTION:waka-->
 
 ```text
-YAML         6 hrs 22 mins   ██████████████████░░░░░░░   72.55 %
-Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+YAML         6 hrs 59 mins   ██████████████████▓░░░░░░   74.91 %
+Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
