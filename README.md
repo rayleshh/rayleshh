@@ -56,11 +56,11 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <!--START_SECTION:waka-->
 
 ```text
-YAML           5 hrs 24 mins   ██████████████████████▒░░   89.99 %
-JavaScript     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Markdown       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML           3 hrs 35 mins   ██████████████████████▓░░   90.24 %
+JavaScript     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+JSON           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
