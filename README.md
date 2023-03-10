@@ -56,7 +56,8 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 mins          █████████████████████████   100.00 %
+Python       2 mins          █████████████░░░░░░░░░░░░   51.67 %
+TypeScript   2 mins          ████████████░░░░░░░░░░░░░   48.33 %
 ```
 
 <!--END_SECTION:waka-->
