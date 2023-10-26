@@ -56,11 +56,11 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       16 hrs 53 mins  █████████████▒░░░░░░░░░░░   53.13 %
-Terraform                  7 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-HCL                        3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Docker                     1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-TypeScript                 1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+YAML                       19 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.06 %
+Terraform                  7 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+HCL                        3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Docker                     1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+TypeScript                 1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
