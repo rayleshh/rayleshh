@@ -2,8 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rayleshh.rayleshh)
 
-<br />
-
 Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self-taught devops.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rayleshh/rayleshh/main/code.gif" width="500" height="320" />
