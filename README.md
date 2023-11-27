@@ -37,29 +37,3 @@ Hi, I'm [Melqui](https://www.linkedin.com/in/m-bernardes-ti/), a passionate self
 <code><img height="20" src="https://cdn.svgporn.com/logos/microsoft-azure.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/digital-ocean.svg"></code>
 <code><img height="20" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/c1/6c898e21d24af7a466c0d82159a62d/cloud-essentials-logo3.png?auto=format%2Ccompress&dpr=1"></code>
-
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```txt
-YAML              1 hr 40 mins    █████████████████████░░░░   84.48 %
-Terraform         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Markdown          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-```
-
-<!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  5,500 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 255 tasks so far           
-⏳  Longest streak is 24 days
-<!-- TODO-IST:END -->
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayleshh&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
